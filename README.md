@@ -21,3 +21,6 @@ let html: String = Div::new()
       .li("fingers"))
   .build;
 ```
+
+# Work in progress :construction:
+This crate is very much a work in progress. You're welcome to share your ideas or contribute in any way you'd like!
